@@ -46,7 +46,7 @@ function validateForm(){
 
 		} else {
 			if( ((document.getElementById('upfile').value=='')) ) {
-				        $('.errorMessageZone').html('Por favor faça o upload da foto.');
+				        $('.errorMessageZone').html('Por favor faça o upload do desenho.');
 				        return false;
 
 			} else {

@@ -115,7 +115,7 @@ do Regulamento Geral de Passatempos disponível <!-- em https://www.facebook.com
 
                   <li>
                    <input type="checkbox" name="accept" value="" id="accept" >
-                        <label for="accept">Li e concordo com o <a href="regulamento.pdf" class="regulamento bold link">Regulamento Específico do Passatempo Dia da Criança e Dia do Ambiente</a>.</label>
+                        <label for="accept">Li e concordo com o <a href="regulamento.pdf" class="regulamento bold link">Regulamento Específico do Passatempo Casa Ecológica Vulcano</a>.</label>
                   </li>
                   <li>
                     <input type="image" src="imgs/bt-send.png" alt="Enviar" >
